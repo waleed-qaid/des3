@@ -237,7 +237,7 @@ label.label.fr.label-primary {
 }
 
 label.label.label-primary.mini.fl {
-    width: 36%!important;
+    width: 50%!important;
     height: 21px;
     color: #fff;
     border: none!important;
@@ -245,8 +245,8 @@ label.label.label-primary.mini.fl {
     border-radius: 0 0 0 1px!important;
     font-family: jazeera,FontAwesome;
     font-size: 11px!important;
-	position: fixed;
-    margin-top: 207px;
+    position: absolute;
+    margin-top: 273px;
     margin-left: -5px;
     border-radius: 0 0 30px 30px!important;
     border-bottom: 0 solid#fff!important;
@@ -474,7 +474,7 @@ div#tlogins .fade {
     transition: none!important;
     width: 61%!important;
     position: absolute;
-    margin: 114px 0 0 147px!important;
+    margin: 180px 0 0 147px!important;
     height: 93px;
     border-radius: 10px 10px 20px;
     background-color: #cecece;
