@@ -10,6 +10,36 @@
     src: local('������� ����'),local(jazeera-light),url(https://www.fontstatic.com/fonts/jazeera-light/jazeera-light.woff) format("woff")
 }
 
+
+button.fa.fa-sign-out.fl.btn.btn-primary {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+button.fa.fa-send.fl.btn.btn-primary {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+span.corner.fa.fa-user.label.label-primary.fr.uc {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+div#dpnl {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+label.nosel.ninr.fl.uzr.label.label-primary {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+.label-primary, .btn-primary {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+.fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner {
+    background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
+}
+
+
 label.ae.label.label-primary {
     background-image: radial-gradient(circle,#1740b0,#1740b0,#3656ab)!important;
 }
