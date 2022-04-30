@@ -1,4 +1,4 @@
-﻿
+
 li#chat__footer__menu__settings_item {
 background-color: #728ea1;
 }
@@ -47,7 +47,7 @@ header.chat_box__header.label-primary {
 
 
 .btn-primary:hover, .btn-primary:disabled, .btn-primary:active {
-    background-color: #728ea1b0 !important;
+    background-color: #728ea1!important;
 }
 
 
@@ -55,6 +55,10 @@ header.chat_box__header.label-primary {
     color: #fff;
     background-color: #728ea1;
     border-color: #606060;
+}
+
+.btn-primary {
+    background-color: #728ea1!important;
 }
 
 
@@ -853,11 +857,6 @@ button.btn.btn-primary.fa.fa-send.chat__body__message-input__submit {
     border-radius: 5px;
 }
 
-.btn-danger {
-    color: #fff;
-    background-color: #ddcecd;
-    border-color: #606060;
-}
 
 span.fa.fa-comment {
     border-right: 2px solid #fff !important;
