@@ -721,7 +721,6 @@ button.ae.label.label-primary.fa.fa-gear {
 }
 
 .fa-user::before {
-    content: "";
     padding: 3px 0 0 !important;
     margin-top: -3px;
 }
