@@ -691,21 +691,6 @@ span {
 ::before {
 }
 
-.fa-group::before, .fa-users::before {
-    content: "";
-    float: left;
-    margin-left: 0px;
-    border-radius: 0;
-    width: 32px;
-    text-align: center;
-    background-color: #fff0;
-    height: 23px;
-    padding: 1px 0 0 !important;
-    margin-top: 1px;
-    border-right-style: double !important;
-    border-right: 1px solid #fff !important;
-}
-
 button#brooms {
     height: 27px;
     border-radius: 3px!important;
@@ -727,33 +712,6 @@ button.ae.label.label-primary.fa.fa-gear {
     padding: 0px;
 }
 
-.fa-commenting::before {
-    float: left;
-    margin-left: 0px;
-    border-radius: 0;
-    width: 32px;
-    text-align: center;
-    background-color: #fff0;
-    height: 23px;
-    padding: 1px 0 0 !important;
-    margin-top: 1px;
-    border-right-style: double !important;
-    border-right: 1px solid #fff !important;
-}
-
-.fa-gear::before, .fa-cog::before {
-    float: left;
-    margin-left: 0px;
-    border-radius: 0;
-    width: 32px;
-    text-align: center;
-    background-color: #fff0;
-    height: 23px;
-    padding: 1px 0 0 !important;
-    margin-top: 1px;
-    border-right-style: double !important;
-    border-right: 1px solid #fff !important;
-}
 
 .fl.fa.fa-sign-in.btn.btn-primary.dots.roomh.border.corner.minix {
     border-radius: 3px;
