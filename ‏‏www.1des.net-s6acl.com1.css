@@ -1,4 +1,4 @@
-﻿@font-face {
+@font-face {
     font-family: jazeera;
     src: url(https://www.fontstatic.com/fonts/jazeera/jazeera.eot?#iefix);
     src: local(�������),local(jazeera),url(https://www.fontstatic.com/fonts/jazeera/jazeera.woff) format("woff")
@@ -475,6 +475,18 @@ a#asim7 {
     border-bottom: 0 solid#e1e1e1
 }
 
+.tab-content.fl {
+    opacity: 1!important;
+    -webkit-transition: none!important;
+    -o-transition: none!important;
+    width: 60%!important;
+    position: initial;
+    margin: -105px 0 0 148px!important;
+    height: 96px!important;
+    border-radius: 10px 10px 20px;
+    background-color: #cecece;
+    background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+}
 
 input#u1, input#u2, input#pass1, input#u3, input#pass2 {
     margin: 0 0 3px 0.5px!important;
