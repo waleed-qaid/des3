@@ -488,11 +488,6 @@ a#asim7 {
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
 }
 
-.fl.tab-content {
-    margin: 3px!important;
-    background-color: #fefefe!important;
-    width: 100%!important;
-}
 
 input#u1, input#u2, input#pass1, input#u3, input#pass2 {
     margin: 0 0 3px 0.5px!important;
