@@ -481,11 +481,17 @@ a#asim7 {
     -o-transition: none!important;
     width: 60%!important;
     position: initial;
-    margin: -105px 0 0 148px!important;
+    margin: -105px 0 0 148px;
     height: 96px!important;
     border-radius: 10px 10px 20px;
     background-color: #cecece;
     background-image: -webkit-linear-gradient(332deg,rgb(166 206 214/0%) 25%,transparent 25%,#2b879900 50%,rgba(255,255,255,.2) 50%,rgba(255,255,255,.2) 75%,transparent 75%,transparent)!important;
+}
+
+.fl.tab-content {
+    margin: 3px!important;
+    background-color: #fefefe!important;
+    width: 100%!important;
 }
 
 input#u1, input#u2, input#pass1, input#u3, input#pass2 {
