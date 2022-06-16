@@ -735,8 +735,7 @@ button#guest-form__submit {
 }
 
 .border {
-    border: 1px solid #b5b5b5!important;
-    box-shadow: 0 0 2px 0 rgb(0 0 0 / 43%);
+    border: 1px solid #000000!important;
 }
 
 img.state_idle {
