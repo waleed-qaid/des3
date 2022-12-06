@@ -382,28 +382,25 @@ $("style").last().append(`
 #d2.kdmat5 .hmsg {
   background-color: #faf0e600 !important;
 }
-#d2.kdmat5 {
-background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
-background-size: cover;
-}
+
 #users.kdmat5 {
-  background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
+  background-image: url("https://i.ibb.co/jz7wj0b/kd10281924d7a561122.png");
   background-size: cover;
 }
 #settings.kdmat5 {
-  background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
+  background-image: url("https://i.ibb.co/jz7wj0b/kd10281924d7a561122.png");
   background-size: cover;
 }
 #wall.kdmat5 #d2bc {
-  background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
+  background-image: url("https://i.ibb.co/jz7wj0b/kd10281924d7a561122.png");
   background-size: cover;
 }
 #rooms.kdmat5 {
-  background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
+  background-image: url("https://i.ibb.co/jz7wj0b/kd10281924d7a561122.png");
   background-size: cover;
 }
 #chats.kdmat5 {
-  background-image: url("https://i.ibb.co/k96bjDt/kd10281924d7a561122.png");
+  background-image: url("https://i.ibb.co/jz7wj0b/kd10281924d7a561122.png");
   background-size: cover;
 }
 #users.kdmat5 .inroom.uzr{border-radius:5px;border:1px solid #fffefe;border-bottom:1px solid #fffefe}
