@@ -584,7 +584,7 @@ $(`<style>.nosel.d-flex.room.r185b6f9f5ecx6723414-x-dbp746.bord {border-inline: 
   display: block;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: #ffffff82;
   animation: textclip 2s linear infinite;
   background-image: url(https://i.ibb.co/bB812zy/61.gif);
   -webkit-background-clip: text;
