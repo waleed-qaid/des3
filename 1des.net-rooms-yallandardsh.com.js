@@ -2269,7 +2269,6 @@ $(`<style>
     margin-top: 15px !important;
     margin-right: 8px;
     float: right;
-    font-size: 18px!important;
 }
 .nosel.d-flex.room.r185ccc7ff4dx0292bfd6-xeu1nvu {
     background-image: url(https://up6.cc/2023/01/167419711799751.gif);
