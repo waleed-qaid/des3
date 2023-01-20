@@ -249,9 +249,10 @@ $(`<style>.nosel.d-flex.room.r185b6f94193x87f7186-xxy5hr8.bord {border-inline: 0
   -webkit-background-clip: text;
   color: transparent !important;
   background-size: 90% 100%;
-  margin-top: -5px !important;
+  margin-top: -8px !important;
   text-align: center;
-  margin-left: 115px;
+    float: right;
+    margin-right: 5px;
 }
 
 
