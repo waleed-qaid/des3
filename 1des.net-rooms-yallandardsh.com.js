@@ -795,6 +795,7 @@ display: none;
 .nosel.d-flex.room.r185b78c618bx578bbbf1-x5x7pxn {
   display: block;
   border-radius: 10px;
+   margin-top: 5px;
 }
 .nosel.d-flex.room.r185b78c618bx578bbbf1-x5x7pxn .d-flex.flex-grow-1 {
   display: inline-grid;
@@ -815,7 +816,6 @@ width: 70px !important;
 min-height: 67px !important;
 max-height: 67px !important;
 margin-top: 78px;
-margin-bottom: 8px;
 z-index: 0;
 }
 .nosel.d-flex.room.r185b78c618bx578bbbf1-x5x7pxn .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
