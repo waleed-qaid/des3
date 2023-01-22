@@ -2413,14 +2413,23 @@ margin-left: -12px;
 #upro.jnoon1 .light.fl.pro.break{background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}
 
 #wall.jnoon1 .fitimg.u-pic.borderg {
-    border-radius: 0 10px 0 10px;
-    height: 52px!important;
-    margin-top: 2px;
-    border: 1px solid;
-    border-image: linear-gradient(var(--angle), #ffc90e 0%, #000 29%, #ffc90e 67%, #020202 100%) 1;
-    box-shadow: 0 0 0px rgb(0 0 0), inset 0px 0px 1px 1px rgb(253 248 224), 0 0 0 2px #70707000;
+height: 52px !important;
+border: 1px solid;
+border-image: linear-gradient(45deg, gold, deeppink) 5;
+clip-path: inset(0px round 0px 15px 0px 15px);
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+margin-top: 2px;
+margin-right: 2px;
 }
-#rooms.jnoon1 .fitimg.u-pic.borderg{border-radius:0 10px 0 10px;height:52px!important;border:1px solid #fff;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0  3px #f0c01f}
+#rooms.jnoon1 .fitimg.u-pic.borderg{
+height: 52px !important;
+border: 1px solid;
+border-image: linear-gradient(45deg, gold, deeppink) 5;
+clip-path: inset(0px round 0px 15px 0px 15px);
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+}
 
 .corner.border.label.label-primary.jnoon1 {
   border-radius: 0 10px 0 10px !important;
