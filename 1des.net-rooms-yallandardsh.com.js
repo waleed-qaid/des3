@@ -2346,7 +2346,6 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
 }
-
 #users.jnoon1 .fitimg.u-pic {
 border: 1px solid;
 border-image: linear-gradient(45deg, gold, deeppink) 5;
@@ -2359,7 +2358,6 @@ margin-right: 2px;
 border-radius: 0 10px 0 10px;
 margin-left: -12px;
 }
-
 #d0.jnoon1 {
   border-radius: 0 10px 0 10px !important;
   border: 1px solid #ecdce41c;
