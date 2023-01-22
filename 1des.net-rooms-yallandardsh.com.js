@@ -2307,36 +2307,25 @@ $(`<style>
 
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.jnoon1 .mic {
-    border: 1px solid;
-    border-image: linear-gradient(var(--angle), #ffc90e 0%, #000 29%, #ffc90e 67%, #020202 100%) 1;
-    animation: 5s rotate linear infinite;
-    --angle: 0deg;
-    background-color: #2625256b;
+    border: 2px solid;
+    border-image: linear-gradient(45deg, gold, deeppink) 5;
+    clip-path: inset(0px round 10px);
+    animation: huerotate 2s infinite linear;
+    filter: hue-rotate(360deg);
+    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 3px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 2px;
-    margin-top: 1px;
-    height: 48px;
-    box-shadow: 0 0 0px rgb(0 0 0), inset 0px 0px 1px 2px rgb(253 248 224), 0 0 0 2px #70707000;
+    margin-top: 0px;
 }
-@keyframes rotate {
-	to {
-		--angle: 360deg;
-	}
-}
-@property --angle {
-	syntax: "<angle>";
-	initial-value: 0deg;
-	inherits: false;
+
+@keyframes huerotate {
+    0% {
+        filter: hue-rotate(0deg);
+    }
+    100% {
+        filter: hue-rorate(360deg);
+    }
 }</style>`).insertBefore('body');
 $("style").last().append(`
-
-
-
-
-
-
-
-
-
 #upro.jnoon1 .border {
   border-radius: 0 10px 0 10px !important;
   border: 1px solid #bfbfbf;
