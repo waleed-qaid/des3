@@ -2474,7 +2474,11 @@ input.jnoon1 {
 
 .fl.u-pic.fitimg.jnoon1 {
   border-radius: 0 10px 0 10px !important;
-  border: 1px solid #ecdce4;
+  border: 1px solid;
+border-image: linear-gradient(45deg, #ffd700, #ff1493) 5;
+clip-path: inset(0px round 0px 100px 0px 100px);
+animation: huerotate 2s infinite linear;
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 30px rgb(0 0 0), 0 0 0 0px #000;
 }
 
 .fl.borderg.jnoon1 {
