@@ -2307,9 +2307,8 @@ $(`<style>
 
 $(`<style>#mic4 {margin-right: 8px !important;}
 #mic.jnoon1 .mic {
-    border: 2px solid;
+    border: 0px solid;
     border-image: linear-gradient(45deg, gold, deeppink) 5;
-    clip-path: inset(0px round 0px 15px 0px 15px);
     animation: huerotate 2s infinite linear;
     filter: hue-rotate(360deg);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
