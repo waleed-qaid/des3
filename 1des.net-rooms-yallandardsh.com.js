@@ -2337,25 +2337,29 @@ $("style").last().append(`
 }
 
 #d2.jnoon1 .uzr .fitimg.u-pic {
-    border-radius: 0 10px 0 10px;
-    height: 52px!important;
-    margin-top: 2px;
-    border: 1px solid;
-    border-image: linear-gradient(var(--angle), #ffc90e 0%, #000 29%, #ffc90e 67%, #020202 100%) 1;
-    box-shadow: 0 0 0px rgb(0 0 0), inset 0px 0px 1px 1px rgb(253 248 224), 0 0 0 2px #70707000;
+height: 52px !important;
+border: 1px solid;
+border-image: linear-gradient(45deg, gold, deeppink) 5;
+clip-path: inset(0px round 0px 15px 0px 15px);
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+margin-top: 2px;
+margin-right: 2px;
 }
-
-#users.jnoon1 .fitimg.u-pic{border:1px solid #fff;margin-top:2px;box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0  3px #f0c01f;border-radius:0 10px 0 10px;margin-left: -12px;}
 
 #users.jnoon1 .fitimg.u-pic {
-    margin-top: 2px;
-    border-radius: 0 10px 0 10px;
-    margin-left: -12px;
-    border: 1px solid;
-    border-image: linear-gradient(var(--angle), #ffc90e 0%, #000 29%, #ffc90e 67%, #020202 100%) 1;
-    background-color: #2625256b;
-    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 1px 1px rgb(253 248 224), 0 0 0 2px #70707000;
+border: 1px solid;
+border-image: linear-gradient(45deg, gold, deeppink) 5;
+clip-path: inset(0px round 0px 15px 0px 15px);
+animation: huerotate 2s infinite linear;
+filter: hue-rotate(360deg);
+box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
+margin-top: 2px;
+margin-right: 2px;
+border-radius: 0 10px 0 10px;
+margin-left: -12px;
 }
+
 #d0.jnoon1 {
   border-radius: 0 10px 0 10px !important;
   border: 1px solid #ecdce41c;
