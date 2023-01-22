@@ -2416,7 +2416,7 @@ margin-left: -12px;
     border-radius: 15px 0px 15px 0px;
     margin-top: 1px;
     border: 1px solid;
-    border-image: linear-gradient(45deg, gold, deeppink) 5;
+    border-image: linear-gradient(45deg, gold, #00ff37) 5;
     clip-path: inset(0px round 15px 0px 15px 0px);
     filter: hue-rotate(360deg);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
