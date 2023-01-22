@@ -2378,7 +2378,7 @@ margin-left: -12px;
     border: 1px solid #fff;
     box-shadow: inset 0 0 0 rgb(0 0 0 / 8%), 0 0 2px #f0c01f;
 }
-#users.jnoon1 img.co{transform:rotate(20deg);margin-top:2px!important}#users.jnoon1 .nosel.ninr.fl.uzr.label.bg{border-radius:0 10px 0 10px!important;}
+#users.jnoon1 img.co{border-radius: 0 12px 0 12px;transform:rotate(20deg);margin-top:2px!important}#users.jnoon1 .nosel.ninr.fl.uzr.label.bg{border-radius:0 10px 0 10px!important;}
 
 #d0.jnoon1 .label-primary {
   border: 0px solid #ecdce46b !important;
