@@ -2531,7 +2531,7 @@ $(`<style>
 	margin-top: 80px!important;
 }
 .nosel.d-flex.room.r185c815b6a8xbd5f6756x-uuqbzq {
-    background-image: url(https://up6.cc/2023/01/167460493577861.png);
+    background-image: url(https://up6.cc/2023/01/16746170722591.gif);
     background-size: cover;
     border-radius: 10px 0 10px 0;
     display: inline-block;
