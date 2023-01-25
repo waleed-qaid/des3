@@ -2955,7 +2955,7 @@ height: 52px;
 #users.tgrbh1 .nosel.ninr.fl.uzr.label.bg {
     border-radius: 0 10px 0 10px!important;
     background-color: #b2b2b2;
-	color: #fddf57;
+	color: #e7ba3a;
 	background-image: url(https://up6.cc/2023/01/167463273696361.png);
     background-size: cover;
 }
@@ -2963,7 +2963,7 @@ height: 52px;
     border: 1px solid #e9e9e952 !important;
     border-radius: 0 10px 0 10px!important;
     background-image: url(https://up6.cc/2023/01/167463340050531.png);
-    color: #fddf57;
+    color: #e7ba3a;
 }
 #settings.tgrbh1 .label-primary {
   border-radius: 0 10px 0 10px!important;
@@ -2997,7 +2997,7 @@ border-radius: 0 10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/01/167463340050531.png);
     background-size: cover;
-    color: #fddf57;
+    color: #e7ba3a;
 }
 #d2.tgrbh1{background-color:#fff !important;}
 #room.tgrbh1 .tablebox.d-flex.footer.fl.light {
@@ -3048,21 +3048,21 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/01/167463340050531.png);
     background-size: cover;
-    color: #fddf57;
+    color: #e7ba3a;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.tgrbh1 {
     border-radius: 0 10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/01/167463340050531.png);
     background-size: cover;
-    color: #fddf57;
+    color: #e7ba3a;
 }
 .label.fl.label-primary.tgrbh1 {
     border-radius: 0 10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/01/167463340050531.png);
     background-size: cover;
-    color: #fddf57;
+    color: #e7ba3a;
 }
 #rooms.tgrbh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.tgrbh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.tgrbh1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.tgrbh1 {
