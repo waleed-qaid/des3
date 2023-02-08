@@ -1096,6 +1096,7 @@ padding: 0px;
     background-size: cover;
     border-radius: 2px;
     display: inline-block;
+    box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000;
 }
 .nosel.d-flex.room.r185d08316f7xf8f6d992x-wxyhp .fitimg.u-pic.borderg {
   border-radius: 100px;
