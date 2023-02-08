@@ -384,6 +384,7 @@ $(`<style>
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
 }
+
 .nosel.d-flex.room.r1860246ac20x1522df36xuplk23 .fitimg.u-pic.borderg {
   border-radius: 100px;
   border: 2px solid #cc8321;
