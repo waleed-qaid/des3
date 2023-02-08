@@ -1247,7 +1247,6 @@ border-radius: 2px !important;
     background-image: url(https://up6.cc/2023/02/167584583251383.png);
     background-size: cover;
     color: #000;
-    font-size: 14px !important;
 }
 #d2.tarab1{background-color:#fff !important;}
 #room.tarab1 .tablebox.d-flex.footer.fl.light {
