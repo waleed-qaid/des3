@@ -1182,7 +1182,7 @@ height: 52px;
 #d2.tarab1 .label-primary{background-color:#b77c9a!important}#d2.tarab1 .bg{background-color:#b77c9a!important}#d2.tarab1 .uzr.d-flex.mm.hmsg{border-radius: 2px;background-color:#bbbbbb9e!important}#dpnl.tarab1{background-size: 100%;background-image: url(https://up6.cc/2023/02/167584583251383.png);background-color: #b2b2b2;  }#dpnl.tarab1 .light{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);}#d0.tarab1 .nosel.fl.bg.{background-color:#b77c9a!important;  }#users.tarab1 span.uhash{text-transform:uppercase;background-image:linear-gradient(-225deg,#7b7b7b 0,#737373 29%,#ebebeb 67%,#3600ff 100%);background-size:220% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:2s linear infinite textclip;display:inline-block}
 #users.tarab1 .mini.u-msg{text-align:center;}#dpnl.tarab1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.tarab1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 50px!important}
 #rooms.tarab1 .nosel.label-primary.fl.bgg, #rooms.tarab1 .label.label-primary.uc {
-  border-radius: 50px !important;
+  border-radius: 2px !important;
   background-color: #cecece !important;
 }
 #users.tarab1 img.ustat {
