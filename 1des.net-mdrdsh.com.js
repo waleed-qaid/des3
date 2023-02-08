@@ -357,7 +357,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1860246ac20x1522df36xuplk23 .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #6e6e6e;
+  -webkit-text-fill-color: #d8d8d8;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
@@ -379,7 +379,7 @@ $(`<style>
 	background-size: 90% 100%;
 }
 .nosel.d-flex.room.r1860246ac20x1522df36xuplk23 {
-    background-image: url(https://up6.cc/2023/02/167560204172671.png);
+    background-image: url(https://up6.cc/2023/02/167582025518821.png);
     background-size: cover;
     border-radius: 15px 0px 15px 0px;
     display: inline-block;
@@ -399,7 +399,7 @@ $(`<style>
 }
 .nosel.d-flex.room.r1860246ac20x1522df36xuplk23 .u-topic.dots {
   text-transform: uppercase;
-  -webkit-text-fill-color: #e8a64d00;
+  -webkit-text-fill-color: #ffffffba;
   animation: textclip 2s linear infinite;
   display: inline-block;
   margin-left: 10px;
