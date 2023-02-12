@@ -717,6 +717,268 @@ setInterval(function () {
 
 
 
+$("style").last().append(`
+#users .uzr.stl1_1 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+}
+#users .uzr.stl1_1 .d-flex.dots {
+  margin-top: 7px !important;
+  margin-left: 5px;
+}
+#users .uzr.stl1_1 .u-msg {
+  text-align: center;
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
+}
+#users .uzr.stl1_1 .ustat {
+  width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 10px;
+  z-index: 0 !important;
+  display: none;
+}
+#users .uzr.stl1_1 span.uhash {
+  margin-right: 324px;
+  margin-top: 24px;
+  margin-left: 0px;
+}
+#users .uzr.stl1_1 img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 282px;
+}
+#users .uzr.stl1_1 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-size: cover;
+  border: 1px solid #fff;
+}
+#users .uzr.stl1_1 .c-flex.fr {
+  margin-left: -4px!important;
+  float: left;
+}
+#users .uzr.stl1_1 .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.stl1_1 .u-topic {
+  margin-left: 5px;
+}
+#users .uzr.stl1_1 .My_star1_1 {
+  width: 84px;
+  margin-top: -74px;
+  height: 80px;
+}
+#users .uzr.stl1_1 .My_tsor1_1 {
+  width: 79px;
+  margin-top: -45px;
+  z-index: 0;
+  margin-left: 36px;
+}
+#users .uzr.stl1_1 .My_vedio1_1 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+#users .uzr.stl1_2 .fitimg.u-pic {
+  border-radius: 100px !important;
+  margin-top: 9px !important;
+  height: 52px !important;
+  margin-left: 12px!important;
+  z-index: 0 !important;
+}
+#users .uzr.stl1_2 .d-flex.dots {
+  margin-top: 7px !important;
+  margin-left: 5px;
+}
+#users .uzr.stl1_2 .u-msg {
+  text-align: center;
+  -webkit-background-clip: text;
+  padding: 1px !important;
+  font-size: 89% !important;
+  -webkit-text-fill-color: #0000;
+  background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
+  color: transparent !important;
+  background-size: 90% 100%;
+}
+#users .uzr.stl1_2 .ustat {
+  width: 54px !important;
+  border-radius: 0px 50px 50px 50px !important;
+  height: 52px !important;
+  margin-top: 5px !important;
+  min-height: 0% !important;
+  margin-left: 10px;
+  z-index: 0 !important;
+  display: none;
+}
+#users .uzr.stl1_2 span.uhash {
+  margin-right: 324px;
+  margin-top: 24px;
+  margin-left: 0px;
+}
+#users .uzr.stl1_2 img.co {
+  transform: rotate(90deg);
+  margin-top: -60px !important;
+  margin-right: 282px;
+}
+#users .uzr.stl1_2 {
+  box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #000;
+  margin-bottom: 3px !important;
+  margin-top: 2px !important;
+  border-radius: 4px;
+  background-size: cover;
+  border: 1px solid #fff;
+}
+#users .uzr.stl1_2 .c-flex.fr {
+  margin-left: -4px!important;
+  float: left;
+}
+#users .uzr.stl1_2 .d-flex.fl {
+  padding-right: 0px !important;
+}
+#users .uzr.stl1_2 .u-topic {
+  margin-left: 5px;
+}
+#users .uzr.stl1_2 .My_star1_2 {
+  width: 84px;
+  margin-top: -74px;
+  height: 80px;
+}
+#users .uzr.stl1_2 .My_tsor1_2 {
+  width: 79px;
+  margin-top: -45px;
+  z-index: 0;
+  margin-left: 36px;
+}
+#users .uzr.stl1_2 .My_vedio1_2 {
+  float: right;
+  width: 20px;
+  margin-top: 0px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+`);
+var l_one1_1=setInterval(function(){
+    if(myid!=null){
+        clearInterval(l_one1_1);
+        $("#users .uzr:contains('*90+')").addClass('stl1_1');
+        $("#users .uzr.stl1_1 .c-flex.fr").append('<img class="My_star1_1" src="https://i.ibb.co/5G9Ttb7/10.gif">');
+	    $("#users .uzr.stl1_1 .c-flex.fr").append('<img class="My_tsor1_1" src="https://i.ibb.co/ThKHx1N/image.png">');
+	    $("#users .uzr.stl1_1 .c-flex.fr").after('<div id="my_mood1_1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #660404 67%, #000 100%);" href="https://1des.net/">تصميم كامل العضويات & الرومات</div>');
+        $("#users .uzr span.u-topic:contains('*90+')").after('<img id="mystory1_1" class="My_vedio1_1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.stl1_1 span.uhash, #users .uzr.stl1_1 img.co").hide(); 
+        $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
+        $("div#users .uzr:contains('*90+') .My_vedio1_1").click(function(){
+        $("#movon1").show();
+        $('#movon1').addClass('stl1_1');
+        $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
+        $("#movon1").append('<div style="max-width: 340px; min-width: 300px; color:white; width: 338px; float: right;" class="modal-header label-primary"><span class="pull-right clickable badge"><i class="fa fa-times"></i></span><label style="margin:1px; float: right;" > My vedio </label></div>');  
+        $("#movon1").append('<iframe id="ifr_mov1" style="max-width: 340px;min-width: 300px;right: 0; top: 35px; left: auto;" class="modal in" role="dialog" style="z-index: 2100; display: none; style="max-width:240px;" src="https://www.youtube.com/embed/sv3N3jLfc7A" allowfullscreen="" width="338" height="490" frameborder="0"></iframe>');
+        $("#ifr_mov1").show(function(){
+        $("#upro").modal("hide");
+    } ); 
+});
+$('img.My_star1_2').remove();
+$('img.My_tsor1_2').remove();
+$('img#mystory1_2').remove();
+$('div#my_mood1_2').remove();
+$('div#movon1_2').remove();
+$("#users .uzr:contains('*90+')").removeClass('stl1_2');
+    }
+}, 10000);
+
 var _0x1168=["\x61\x64\x64\x43\x6C\x61\x73\x73","\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32","\x3C\x69\x6D\x67\x20\x63\x6C\x61\x73\x73\x3D\x22\x4D\x79\x5F\x74\x73\x6F\x72\x31\x5F\x32\x22\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x69\x2E\x69\x62\x62\x2E\x63\x6F\x2F\x54\x68\x4B\x48\x78\x31\x4E\x2F\x69\x6D\x61\x67\x65\x2E\x70\x6E\x67\x22\x3E","\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32\x20\x2E\x63\x2D\x66\x6C\x65\x78\x2E\x66\x72","\x61\x66\x74\x65\x72","\x3C\x64\x69\x76\x20\x69\x64\x3D\x22\x6D\x6F\x76\x6F\x6E\x31\x5F\x32\x22\x20\x6F\x6E\x63\x6C\x69\x63\x6B\x3D\x22\x24\x28\x74\x68\x69\x73\x29\x2E\x68\x69\x64\x65\x28\x29\x2E\x68\x74\x6D\x6C\x28\x60\x60\x29\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x6F\x76\x65\x6F\x6E\x31\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x64\x69\x73\x70\x6C\x61\x79\x3A\x6E\x6F\x6E\x65\x3B\x77\x69\x64\x74\x68\x3A\x31\x30\x30\x25\x3B\x68\x65\x69\x67\x68\x74\x3A\x31\x30\x30\x25\x3B\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x39\x39\x39\x39\x39\x39\x3B\x70\x6F\x73\x69\x74\x69\x6F\x6E\x3A\x20\x66\x69\x78\x65\x64\x3B\x6C\x65\x66\x74\x3A\x20\x30\x70\x78\x3B\x74\x6F\x70\x3A\x20\x30\x70\x78\x3B\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x63\x6F\x6C\x6F\x72\x3A\x20\x72\x67\x62\x61\x28\x30\x2C\x20\x30\x2C\x20\x30\x2C\x20\x30\x2E\x36\x29\x3B\x22\x3E","\x23\x6D\x6F\x76\x6F\x6E\x31\x5F\x32","\x61\x70\x70\x65\x6E\x64","\x64\x69\x76\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32\x20\x2E\x4D\x79\x5F\x76\x65\x64\x69\x6F\x31\x5F\x32","\x30\x70\x78","\x2E\x61\x62\x6F\x64\x6C\x5F\x72\x6F\x79\x61\x6C","\x66\x61\x64\x65\x4F\x75\x74","\x61\x6E\x69\x6D\x61\x74\x65","\x31\x37\x36\x37\x39\x33\x33\x61\x78\x78\x65\x53\x52","\x23\x69\x66\x72\x5F\x6D\x6F\x76\x31","\x73\x74\x6C\x31\x5F\x32","\x2E\x4D\x79\x5F\x72\x6F\x79\x61\x6C","\x62\x65\x66\x6F\x72\x65","\x3C\x69\x66\x72\x61\x6D\x65\x20\x69\x64\x3D\x22\x69\x66\x72\x5F\x6D\x6F\x76\x31\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x6D\x61\x78\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x34\x30\x70\x78\x3B\x6D\x69\x6E\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x30\x30\x70\x78\x3B\x72\x69\x67\x68\x74\x3A\x20\x30\x3B\x20\x74\x6F\x70\x3A\x20\x33\x35\x70\x78\x3B\x20\x6C\x65\x66\x74\x3A\x20\x61\x75\x74\x6F\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x6F\x64\x61\x6C\x20\x69\x6E\x22\x20\x72\x6F\x6C\x65\x3D\x22\x64\x69\x61\x6C\x6F\x67\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x7A\x2D\x69\x6E\x64\x65\x78\x3A\x20\x32\x31\x30\x30\x3B\x20\x64\x69\x73\x70\x6C\x61\x79\x3A\x20\x6E\x6F\x6E\x65\x3B\x20\x73\x74\x79\x6C\x65\x3D\x22\x6D\x61\x78\x2D\x77\x69\x64\x74\x68\x3A\x32\x34\x30\x70\x78\x3B\x22\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x77\x77\x77\x2E\x79\x6F\x75\x74\x75\x62\x65\x2E\x63\x6F\x6D\x2F\x65\x6D\x62\x65\x64\x2F\x73\x76\x33\x4E\x33\x6A\x4C\x66\x63\x37\x41\x22\x20\x61\x6C\x6C\x6F\x77\x66\x75\x6C\x6C\x73\x63\x72\x65\x65\x6E\x3D\x22\x22\x20\x77\x69\x64\x74\x68\x3D\x22\x33\x33\x38\x22\x20\x68\x65\x69\x67\x68\x74\x3D\x22\x34\x39\x30\x22\x20\x66\x72\x61\x6D\x65\x62\x6F\x72\x64\x65\x72\x3D\x22\x30\x22\x3E\x3C\x2F\x69\x66\x72\x61\x6D\x65\x3E","\x34\x30\x33\x32\x30\x33\x68\x6D\x46\x72\x48\x67","\x36\x31\x32\x38\x35\x39\x32\x69\x43\x61\x52\x69\x62","\x73\x74\x61\x63\x6B","\x6C\x6F\x67","\x73\x68\x6F\x77","\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32\x20\x73\x70\x61\x6E\x2E\x75\x2D\x74\x6F\x70\x69\x63","\x64\x65\x6C\x61\x79","\x23\x75\x70\x72\x6F","\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x69\x64","\x31\x39\x39\x32\x34\x30\x7A\x6B\x62\x56\x49\x4D","\x32\x30\x34\x37\x37\x36\x34\x6B\x4B\x44\x57\x5A\x74","\x33\x31\x30\x39\x39\x34\x38\x62\x48\x46\x6D\x65\x67","\x3C\x64\x69\x76\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x6F\x64\x61\x6C\x2D\x64\x69\x61\x6C\x6F\x67\x20\x66\x72\x20\x62\x72\x65\x61\x6B\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x68\x65\x69\x67\x68\x74\x3A\x20\x33\x33\x38\x70\x78\x3B\x20\x6D\x61\x78\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x34\x30\x70\x78\x3B\x20\x6D\x69\x6E\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x30\x30\x70\x78\x3B\x20\x6D\x69\x6E\x2D\x68\x65\x69\x67\x68\x74\x3A\x20\x35\x39\x39\x70\x78\x3B\x6F\x76\x65\x72\x66\x6C\x6F\x77\x3A\x20\x76\x69\x73\x69\x62\x6C\x65\x3B\x6D\x61\x72\x67\x69\x6E\x2D\x74\x6F\x70\x3A\x34\x30\x70\x78\x3B\x22\x3E\x3C\x2F\x64\x69\x76\x3E","\x2E\x6A\x72\x68\x5F\x72\x6F\x79\x61\x6C","\x31\x33\x34\x33\x39\x30\x46\x54\x47\x62\x72\x64","\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32\x20\x73\x70\x61\x6E\x2E\x75\x68\x61\x73\x68\x2C\x20\x23\x75\x73\x65\x72\x73\x20\x2E\x75\x7A\x72\x2E\x73\x74\x6C\x31\x5F\x32\x20\x69\x6D\x67\x2E\x63\x6F","\u0645\u0627\u0642\u062F","\x37\x70\x47\x4B\x6B\x4D\x58","\x32\x6E\x6A\x42\x42\x46\x51","\x31\x33\x34\x31\x6D\x56\x46\x42\x4A\x74","\x63\x6C\x69\x63\x6B","\x75\x73\x65\x72\x6E\x61\x6D\x65","\x3C\x64\x69\x76\x20\x69\x64\x3D\x22\x6D\x79\x5F\x6D\x6F\x6F\x64\x31\x5F\x32\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x6C\x61\x62\x65\x6C\x20\x6C\x61\x62\x65\x6C\x2D\x70\x72\x69\x6D\x61\x72\x79\x22\x20\x73\x74\x79\x6C\x65\x3D\x22\x20\x6D\x61\x72\x67\x69\x6E\x2D\x62\x6F\x74\x74\x6F\x6D\x3A\x20\x31\x70\x78\x3B\x20\x64\x69\x73\x70\x6C\x61\x79\x3A\x20\x69\x6E\x6C\x69\x6E\x65\x2D\x62\x6C\x6F\x63\x6B\x3B\x77\x69\x64\x74\x68\x3A\x20\x31\x30\x30\x25\x3B\x6D\x61\x72\x67\x69\x6E\x2D\x74\x6F\x70\x3A\x20\x31\x30\x70\x78\x3B\x68\x65\x69\x67\x68\x74\x3A\x20\x32\x32\x70\x78\x3B\x63\x75\x72\x73\x6F\x72\x3A\x20\x70\x6F\x69\x6E\x74\x65\x72\x3B\x62\x6F\x72\x64\x65\x72\x2D\x72\x61\x64\x69\x75\x73\x3A\x20\x35\x30\x70\x78\x3B\x70\x61\x64\x64\x69\x6E\x67\x3A\x20\x30\x70\x78\x3B\x62\x61\x63\x6B\x67\x72\x6F\x75\x6E\x64\x2D\x69\x6D\x61\x67\x65\x3A\x20\x6C\x69\x6E\x65\x61\x72\x2D\x67\x72\x61\x64\x69\x65\x6E\x74\x28\x2D\x32\x32\x35\x64\x65\x67\x2C\x20\x23\x30\x30\x30\x20\x30\x25\x2C\x20\x23\x30\x30\x30\x20\x32\x39\x25\x2C\x20\x23\x36\x36\x30\x34\x30\x34\x20\x36\x37\x25\x2C\x20\x23\x30\x30\x30\x20\x31\x30\x30\x25\x29\x3B\x22\x20\x68\x72\x65\x66\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x31\x64\x65\x73\x2E\x6E\x65\x74\x2F\x22\x3E\u062A\u0635\u0645\u064A\u0645\x20\u0643\u0627\u0645\u0644\x20\u0627\u0644\u0639\u0636\u0648\u064A\u0627\u062A\x20\x26\x20\u0627\u0644\u0631\u0648\u0645\u0627\u062A\x3C\x2F\x64\x69\x76\x3E","\x3C\x64\x69\x76\x20\x73\x74\x79\x6C\x65\x3D\x22\x6D\x61\x78\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x34\x30\x70\x78\x3B\x20\x6D\x69\x6E\x2D\x77\x69\x64\x74\x68\x3A\x20\x33\x30\x30\x70\x78\x3B\x20\x63\x6F\x6C\x6F\x72\x3A\x77\x68\x69\x74\x65\x3B\x20\x77\x69\x64\x74\x68\x3A\x20\x33\x33\x38\x70\x78\x3B\x20\x66\x6C\x6F\x61\x74\x3A\x20\x72\x69\x67\x68\x74\x3B\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x6D\x6F\x64\x61\x6C\x2D\x68\x65\x61\x64\x65\x72\x20\x6C\x61\x62\x65\x6C\x2D\x70\x72\x69\x6D\x61\x72\x79\x22\x3E\x3C\x73\x70\x61\x6E\x20\x63\x6C\x61\x73\x73\x3D\x22\x70\x75\x6C\x6C\x2D\x72\x69\x67\x68\x74\x20\x63\x6C\x69\x63\x6B\x61\x62\x6C\x65\x20\x62\x61\x64\x67\x65\x22\x3E\x3C\x69\x20\x63\x6C\x61\x73\x73\x3D\x22\x66\x61\x20\x66\x61\x2D\x74\x69\x6D\x65\x73\x22\x3E\x3C\x2F\x69\x3E\x3C\x2F\x73\x70\x61\x6E\x3E\x3C\x6C\x61\x62\x65\x6C\x20\x73\x74\x79\x6C\x65\x3D\x22\x6D\x61\x72\x67\x69\x6E\x3A\x31\x70\x78\x3B\x20\x66\x6C\x6F\x61\x74\x3A\x20\x72\x69\x67\x68\x74\x3B\x22\x20\x3E\x20\x4D\x79\x20\x76\x65\x64\x69\x6F\x20\x3C\x2F\x6C\x61\x62\x65\x6C\x3E\x3C\x2F\x64\x69\x76\x3E","\x68\x69\x64\x65","\x3C\x69\x6D\x67\x20\x63\x6C\x61\x73\x73\x3D\x22\x4D\x79\x5F\x73\x74\x61\x72\x31\x5F\x32\x22\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x69\x2E\x69\x62\x62\x2E\x63\x6F\x2F\x35\x47\x39\x54\x74\x62\x37\x2F\x31\x30\x2E\x67\x69\x66\x22\x3E","\x3C\x69\x6D\x67\x20\x69\x64\x3D\x22\x6D\x79\x73\x74\x6F\x72\x79\x31\x5F\x32\x22\x20\x63\x6C\x61\x73\x73\x3D\x22\x4D\x79\x5F\x76\x65\x64\x69\x6F\x31\x5F\x32\x22\x20\x74\x69\x74\x6C\x65\x3D\x22\u0633\u062A\u0648\u0631\u064A\x22\x20\x73\x72\x63\x3D\x22\x68\x74\x74\x70\x73\x3A\x2F\x2F\x69\x2E\x69\x62\x62\x2E\x63\x6F\x2F\x34\x37\x56\x53\x34\x6E\x59\x2F\x69\x6D\x61\x67\x65\x2E\x70\x6E\x67\x22\x3E","\u0627\u0628\u0648\x20\u062F\u0644\u0627\u0644","\x77\x61\x6C","\x6D\x6F\x64\x61\x6C","\x73\x68\x69\x66\x74","\x70\x75\x73\x68","\x66\x66\x66\x31\x3D\x5F\x30\x78\x31\x33\x33\x66\x36\x64\x3B\x5F\x30\x78\x31\x33\x33\x66\x36\x64\x3D\x68\x61\x6E\x64\x6C\x65\x3B"];var _0x487a88=_0x2a25;function handle(_0x393bx3,_0x393bx4,_0x393bx5){var _0x393bx6=_0x2a25,_0x393bx5=fff1(_0x393bx3,_0x393bx4,_0x393bx5);try{_0x393bx4[_0x393bx6(206)]== _0x393bx6(213)&& ($(_0x393bx6(231)+ _0x393bx3)[_0x1168[0]](_0x393bx6(217)),$(_0x1168[1])[_0x1168[0]](_0x393bx6(217)),$(_0x393bx6(205))[_0x393bx6(194)](_0x393bx6(210)),$(_0x1168[3])[_0x393bx6(194)](_0x1168[2]),$(_0x1168[3])[_0x393bx6(203)](_0x393bx6(207)),$(_0x393bx6(227))[_0x1168[4]](_0x393bx6(211)),$(_0x393bx6(196))[_0x393bx6(209)](),$(_0x393bx6(230))[_0x393bx6(220)](_0x1168[5]),$(_0x1168[8])[_0x393bx6(204)](function(){var _0x393bx4=_0x393bx6;$(_0x393bx4(192))[_0x393bx4(226)](),$(_0x393bx4(192))[_0x1168[0]](_0x393bx4(217)),$(_0x1168[6])[_0x393bx4(220)](_0x393bx4(191)),$(_0x393bx4(192))[_0x1168[7]](_0x393bx4(208)),$(_0x393bx4(192))[_0x393bx4(194)](_0x393bx4(221)),$(_0x393bx4(216))[_0x393bx4(226)](function(){var _0x393bx3=_0x393bx4;$(_0x393bx3(230))[_0x393bx3(214)](_0x393bx3(209))})})),_0x393bx4[_0x393bx6(206)]== _0x393bx6(213)&& $(_0x393bx6(219))[_0x393bx6(229)](2e3)[_0x393bx6(201)]({left:_0x1168[9]},1e3,function(){var _0x393bx3=_0x393bx6;$(_0x393bx3(219))[_0x393bx3(229)](3e3)[_0x393bx3(218)]()}),_0x393bx4[_0x393bx6(206)]== _0x393bx6(212)&& $(_0x1168[10])[_0x393bx6(229)](2e3)[_0x393bx6(201)]({left:_0x393bx6(228)},1e3,function(){var _0x393bx3=_0x393bx6;$(_0x393bx3(198))[_0x393bx3(229)](7e3)[_0x393bx3(218)]()}),_0x393bx4[_0x393bx6(206)]== _0x393bx6(197)&& $(_0x393bx6(193))[_0x393bx6(229)](2e3)[_0x1168[12]]({left:_0x1168[9]},1e3,function(){var _0x393bx3=_0x393bx6;$(_0x393bx3(193))[_0x393bx3(229)](3e3)[_0x1168[11]]()})}catch(_0x393bx3){};return _0x393bx5}function _0x2a25(_0x393bx3,_0x393bx4){var _0x393bx5=_0x4eb4();return (_0x2a25= function(_0x393bx3,_0x393bx4){return _0x393bx5[_0x393bx3-= 190]})(_0x393bx3,_0x393bx4)}function _0x4eb4(){var _0x393bx3=[_0x1168[13],_0x1168[14],_0x1168[15],_0x1168[11],_0x1168[16],_0x1168[17],_0x1168[18],_0x1168[19],_0x1168[20],_0x1168[21],_0x1168[22],_0x1168[23],_0x1168[24],_0x1168[9],_0x1168[25],_0x1168[26],_0x1168[27],_0x1168[28],_0x1168[29],_0x1168[30],_0x1168[31],_0x1168[6],_0x1168[32],_0x1168[7],_0x1168[33],_0x1168[34],_0x1168[35],_0x1168[10],_0x1168[36],_0x1168[37],_0x1168[12],_0x1168[38],_0x1168[4],_0x1168[39],_0x1168[3],_0x1168[40],_0x1168[41],_0x1168[42],_0x1168[43],_0x1168[44],_0x1168[45],_0x1168[46],_0x1168[47],_0x1168[48]];return (_0x4eb4= function(){return _0x393bx3})()}!function(){for(var _0x393bx3=_0x2a25,_0x393bx4=_0x4eb4();;){try{if(835110== +parseInt(_0x393bx3(222))+ -parseInt(_0x393bx3(200))/ 2 * (-parseInt(_0x393bx3(215))/ 3) + parseInt(_0x393bx3(190))/ 4 + -parseInt(_0x393bx3(232))/ 5 + -parseInt(_0x393bx3(233))/ 6 * (-parseInt(_0x393bx3(199))/ 7) + parseInt(_0x393bx3(223))/ 8 + -parseInt(_0x393bx3(202))/ 9 * (parseInt(_0x393bx3(195))/ 10)){break};_0x393bx4[_0x1168[50]](_0x393bx4[_0x1168[49]]())}catch(_0x393bx3){_0x393bx4[_0x1168[50]](_0x393bx4[_0x1168[49]]())}}}();try{bkdr(_0x1168[51])}catch(a){console[_0x487a88(225)](a[_0x487a88(224)])}
 
+var r_one1r = false;
+setInterval(function () {
+    if (myroom == '183f652427fxac2a0217x-e1p3xe') {
+        if (r_one1r == false) {
+            r_one1r = true;
+			
+$("#upro").before('<img id="bk_my_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 120px;" src="https://i.ibb.co/dBfBQ5b/image.png">');
 
+			
+ $("#bk_my_royal").addClass("My_royal");
+        }
+    } else {
+        if (r_one1r == true) {
+            r_one1r = false;
+            $("#bk_my_royal").removeClass('My_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_one2r = false;
+setInterval(function () {
+    if (myroom == '1815a685ac9x588a6021-xvte6cy') {
+        if (r_one2r == false) {
+            r_one2r = true;
+			
+$("#upro").before('<img id="bk_my_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 120px;" src="https://i.ibb.co/dBfBQ5b/image.png">');
+
+			
+ $("#bk_my_royal").addClass("My_royal");
+        }
+    } else {
+        if (r_one2r == true) {
+            r_one2r = false;
+            $("#bk_my_royal").removeClass('My_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_abodl = false;
+setInterval(function () {
+    if (myroom == '18501086934x0427eda3x-gm58bx') {
+        if (r_abodl == false) {
+            r_abodl = true;
+			
+$("#upro").before('<img id="bk_abodl_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 100px;" src="https://up6.cc/2023/01/167364585449741.png">');
+
+			
+ $("#bk_abodl_royal").addClass("abodl_royal");
+        }
+    } else {
+        if (r_abodl == true) {
+            r_abodl = false;
+            $("#bk_abodl_royal").removeClass('abodl_royal');
+        } 
+    } 
+}, 1000);
+
+
+var r_jrh = false;
+setInterval(function () {
+    if (myroom == '183f652427fxac2a0217x-e1p3xe') {
+        if (r_jrh == false) {
+            r_jrh = true;
+			
+$("#upro").before('<img id="bk_jrh_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 6%;padding: 5px;height: 120px;" src="https://up6.cc/2023/01/167364996290911.png">');
+
+			
+ $("#bk_jrh_royal").addClass("jrh_royal");
+        }
+    } else {
+        if (r_jrh == true) {
+            r_jrh = false;
+            $("#bk_jrh_royal").removeClass('jrh_royal');
+        } 
+    } 
+}, 1000);
