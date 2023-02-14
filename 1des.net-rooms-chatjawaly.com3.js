@@ -1328,3 +1328,34 @@ setInterval(function () {
         } 
     }, 10);
 
+
+var r_king_haili = false;
+setInterval(function () {
+    if (myroom == '185ca6f636dx34f3e19-xc6k2sf') {
+        if (r_king_haili == false) {
+            r_king_haili = true;			
+ $("#bk_king_haili_royal").addClass("king_haili_royal");
+$("#upro").before('<img id="bk_king_haili_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 8%;padding: 5px;height: 90px;" src="https://up6.cc/2023/02/167641284052051.png">');
+$("#upro").before('<img id="bk_king_reema_royal" class="hand corner nosel" style="left: -350px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 17%;padding: 5px;height: 90px;" src="https://up6.cc/2023/02/167641284054062.png">');
+$("#bk_king_haili_royal, #bk_king_reema_royal").delay(2000).animate({
+
+left: '0px'
+
+}, 1000, function () {
+
+$("#bk_king_haili_royal, #bk_king_reema_royal").delay(2000).animate({
+
+left: '-350px'
+
+}, 500, function () {
+
+$("#bk_king_haili_royal, #bk_king_reema_royal").delay(1000).remove();
+
+});
+
+
+});
+        }
+    } 
+}, 1000);
+
