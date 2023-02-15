@@ -894,7 +894,7 @@ $("style").last().append(`
   -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
+  -webkit-text-fill-color: #fff;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
@@ -974,7 +974,7 @@ border: 1px solid #ffd74e;
   -webkit-background-clip: text;
   padding: 1px !important;
   font-size: 89% !important;
-  -webkit-text-fill-color: #0000;
+  -webkit-text-fill-color: #fff;
   background-image: url(https://i.ibb.co/JzgnvW8/61.gif);
   color: transparent !important;
   background-size: 90% 100%;
@@ -1072,14 +1072,14 @@ $("#users .uzr:contains('*90+')").removeClass('stl1_2');
 
 
 
-        $("#users .uzr:contains('-.. '𝑨𝑩𝑶¦𝑫𝑳𝑨𝑳')").addClass('dlal1_1');
+        $("#users .uzr:contains('ABO¦DLAL')").addClass('dlal1_1');
         $("#users .uzr.dlal1_1 .fitimg.u-pic").append('<img class="My_star1_1" src="https://up6.cc/2023/02/167648364092461.gif">');
 	    $("#users .uzr.dlal1_1 .c-flex.fr").append('<img class="My_tsor1_1" src="https://i.ibb.co/ThKHx1N/image.png">');
 	    $("#users .uzr.dlal1_1 .c-flex.fr").after('<div id="my_mood1_1" class="label label-primary" style=" margin-bottom: 1px; display: inline-block;width: 100%;margin-top: 10px;height: 22px;cursor: pointer;border-radius: 50px;padding: 0px;background-image: linear-gradient(-225deg, #000 0%, #000 29%, #660404 67%, #000 100%);" href="https://1des.net/">تصميم كامل العضويات & الرومات</div>');
-        $("#users .uzr span.u-topic:contains('-.. '𝑨𝑩𝑶¦𝑫𝑳𝑨𝑳')").after('<img id="mystory1_1" class="My_vedio1_1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
-        $("#users .uzr.dlal1_1 span.uhash, #users .uzr.dlal1_1 img.co, #my_mood1_2, .My_tsor1_2").hide(); 
+        $("#users .uzr span.u-topic:contains('ABO¦DLAL')").after('<img id="mystory1_1" class="My_vedio1_1" title="ستوري" src="https://i.ibb.co/47VS4nY/image.png">');
+        $("#users .uzr.dlal1_1 span.uhash, #users .uzr.dlal1_1 img.co, #my_mood1_1, .My_tsor1_1").hide(); 
         $("#upro").before('<div id="movon1" onclick="$(this).hide().html(``);" class="moveon1" style="display:none;width:100%;height:100%;z-index:999999;position: fixed;left: 0px;top: 0px;background-color: rgba(0, 0, 0, 0.6);">'); 
-        $("div#users .uzr:contains('-.. '𝑨𝑩𝑶¦𝑫𝑳𝑨𝑳') .My_vedio1_1").click(function(){
+        $("div#users .uzr:contains('ABO¦DLAL') .My_vedio1_1").click(function(){
         $("#movon1").show();
         $('#movon1').addClass('dlal1_1');
         $("#movon1").before('<div class="modal-dialog fr break" style="height: 338px; max-width: 340px; min-width: 300px; min-height: 599px;overflow: visible;margin-top:40px;"></div>');
@@ -1094,7 +1094,7 @@ $('img.My_tsor1_2').remove();
 $('img#mystory1_2').remove();
 $('div#my_mood1_2').remove();
 $('div#movon1_2').remove();
-$("#users .uzr:contains('-.. '𝑨𝑩𝑶¦𝑫𝑳𝑨𝑳')").removeClass('dlal1_2');
+$("#users .uzr:contains('ABO¦DLAL')").removeClass('dlal1_2');
 
 
 
