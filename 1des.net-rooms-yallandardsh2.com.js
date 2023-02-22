@@ -8,3 +8,6 @@ $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-7.js")
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-8.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-9.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-10.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-11.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-12.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-13.js");
