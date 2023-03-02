@@ -11,3 +11,5 @@ $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-10.js"
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-11.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-12.js");
 $.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-13.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-14.js");
+$.getScript("https://raw.githack.com/waleed-qaid/te3b/main/1des.net-rooms-15.js");
