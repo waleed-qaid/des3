@@ -1,4 +1,5 @@
-
+$("<div class='fr borderg minix' style='padding:2px;background-color:white;margin-top: 19px;margin-right: 5px;'>  استايلات و تصاميم :<a href='https://1des.net/'>ون ديزاين</a></div>").insertAfter($(".loginstat"));
+$('<a href="https://user.1des.net/" target="_blank" class="border btn mini btn-success hand fl" style="background-color: crimson;padding:6px;width: 98%;margin-left:3px;margin-top: 2px;margin-bottom: 4px;"><span class="fl fa fa-edit"></span>صمم عضويتك بنفسك</a>').insertBefore('#zoom');
 $("style").last().append(`
 #upro .border {
   border-radius: 3px!important;
