@@ -549,14 +549,6 @@ background-color:#ffffff;
 
 }
 
-
-.bg {
-    background-color: #2c4666;
-}
-
-
-
-
 .btn-primary {
     color: #fff;
     border-color: #000000;
