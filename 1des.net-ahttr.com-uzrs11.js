@@ -18,7 +18,6 @@ $("style").last().append(`
 #users .mini.u-msg{text-align:center;}#dpnl.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius:5px!important}
 #rooms .label-primary {
     border-radius: 3px!important;
-    background-color: #25252594!important;
     border: 1px solid #efefef!important;
 }
 #users img.co{border-radius: 3px!important;transform:rotate(20deg);margin-top:2px!important}
