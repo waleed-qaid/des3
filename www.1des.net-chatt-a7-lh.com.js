@@ -98,9 +98,6 @@ input {
       border-radius: 150px 0px 150px 0px!important;
   border: 1px solid #ecdce4;
 }
-.dots {
-      border-radius: 150px 0px 150px 0px!important;
-}
 .tc {
       border-radius: 150px 0px 150px 0px!important;
   border: 1px solid #ecdce4;
@@ -970,7 +967,7 @@ $("style").last().append(`
 }
 
 
-#users .inroom.uzr .fitimg.u-pic {box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #a21f1f;border: 1px solid #fff;border-radius: 50px;margin-top: -1px;z-index: 0;margin-left: -53px;}
+#users .inroom.uzr .fitimg.u-pic {box-shadow: inset 0 0 0 rgba(0,0,0,.08),0 0 2px #a21f1f;border: 1px solid #fff;margin-top: -1px;z-index: 0;}
 #d2 .uzr .fitimg.u-pic{border-radius: 50px;height: 52px !important;border:1px solid #fff;margin-top:2px;box-shadow:inset 0 0 0 rgba(0,0,0,.08),0 0 2px #a21f1f;}
 
 #d0.aamah1 {
