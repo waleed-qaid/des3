@@ -20,7 +20,7 @@ $("style").last().append(`
         border-radius: 150px 0px 150px 0px!important;
     border: 1px solid #efefef!important;
 }
-#users img.co{    border-radius: 150px 0px 150px 0px!important;transform:rotate(20deg);margin-top:2px!important}
+#users img.co{    border-radius: 150px 0px 150px 0px!important;transform: rotate(-55deg)margin-top:2px!important}
 #users .nosel.ninr.fl.uzr.label.bg {
         border-radius: 150px 0px 150px 0px!important;
     background-size: cover;
@@ -45,10 +45,7 @@ $("style").last().append(`
     border: 1px solid #efefef;
 }
 .fitimg.u-pic {
-border-radius: 50px;
-    height: 52px !important;
     border: 1px solid #fff;
-    margin-top: 2px;
     box-shadow: inset 0 0 0 rgba(0,0,0,.08), 0 0 2px #a21f1f;
 }
 #room #mic{
@@ -990,7 +987,7 @@ $("style").last().append(`
     border: 1px solid #efefef!important;
 }
 #users img.ustat {
-width: 54px !important;border-radius: 0px 50px 50px 50px !important;height: 52px !important;margin-top: -1px;min-height: 0% !important;
+height: 52px !important;
 }
 #users.aamah1 img.co{border-radius:  10px 0 10px!important;transform:rotate(20deg);margin-top:2px!important}
 #users.aamah1 .nosel.ninr.fl.uzr.label.bg {
