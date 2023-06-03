@@ -680,38 +680,3 @@ setInterval(function () {
 
 
 
-
-var r_king_KSA = false;
-setInterval(function () {
-    if (myroom == '188825e0b58x4d8a0ff4x1gg5e0') {
-        if (r_king_KSA == false) {
-            r_king_KSA = true;			
- $("#bk_king_KSA_royal").addClass("king_KSA_royal");
-$("#upro").before('<img id="bk_king_KSA_royal" class="hand corner nosel" style="left: -500px;z-index: 2110;background-color: rgba(239, 239, 239, 0);position: fixed;top: 25%;padding: 5px;height: 120px;" src="https://up6.cc/2023/06/168581238427691.png">');
-$("#bk_king_KSA_royal").delay(2000).animate({
-
-left: '0px'
-
-}, 1000, function () {
-
-$("#bk_king_KSA_royal").delay(7000).animate({
-
-left: '-500px'
-
-}, 500, function () {
-
-$("#bk_king_KSA_royal").delay(1000).remove();
-
-});
-
-
-});
-        }
-    } else {
-        if (r_king_KSA == true) {
-            r_king_KSA = false;
-            $("#bk_king_KSA_royal").removeClass('king_KSA_royal');
-        } 
-    } 
-}, 1000);
-
