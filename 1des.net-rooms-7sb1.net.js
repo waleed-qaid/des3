@@ -105,7 +105,6 @@ $("style").last().append(`
 height: 52px !important;
 border: 1px solid;
 border-radius: 0 10px 0 10px;
-filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
@@ -205,8 +204,6 @@ border-radius: 0 10px 0 10px!important;
     margin-top: 1px;
     border: 1px solid;
     border-image: linear-gradient(45deg, gold, #ffd400) 5;
-    clip-path: inset(0px round 15px 0px 15px 0px);
-    filter: hue-rotate(360deg);
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 #wall.jnoon1 .fitimg.u-pic.borderg {
@@ -221,7 +218,6 @@ margin-right: 2px;
 height: 52px !important;
 border: 1px solid;
 border-image: linear-gradient(45deg, gold, deeppink) 0;
-filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 }
 .corner.border.label.label-primary.jnoon1 {
@@ -287,8 +283,6 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 10px rgb(0 0 0), 0 0 0 0px #000;
 
 #users.jnoon1 .inroom .fitimg.u-pic {
 border: 1px solid;
-animation: huerotate 2s infinite linear;
-filter: hue-rotate(360deg);
 box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
 margin-top: 2px;
 margin-right: 2px;
