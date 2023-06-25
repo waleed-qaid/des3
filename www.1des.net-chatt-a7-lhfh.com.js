@@ -684,7 +684,7 @@ $("style").last().append(`
     border: 1px solid #efefef!important;
 }
 #users.jnoon1 img.ustat {
-width: 54px !important;border-radius: 0px 50px 50px 50px !important;height: 52px !important;margin-top: -1px;min-height: 0% !important;
+width: 5px !important;border-radius: 0px 50px 50px 50px !important;margin-top: -1px;min-height: 0% !important;
 }
 #users.jnoon1 img.co{border-radius: 0 10px 0 10px!important;transform:rotate(20deg);margin-top:2px!important}
 #users.jnoon1 .nosel.ninr.fl.uzr.label.bg {
