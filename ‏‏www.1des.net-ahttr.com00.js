@@ -1694,7 +1694,7 @@ height: 52px;
 #users.blami3ad1 .mini.u-msg{text-align:center;}#dpnl.blami3ad1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.blami3ad1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.blami3ad1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1!important;
+    background-color: #e3d5db!important;
     border: 1px solid #efefef!important;
 }
 #users.blami3ad1 img.ustat {
@@ -1743,7 +1743,7 @@ height: 52px;
 #settings.blami3ad1 .bg-primary{background-color:#9d8980!important}#d0.blami3ad1 .btn-primary{background-color:#9d8980!important}
 #users.blami3ad1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1;
+    background-color: #e3d5db;
     border: 1px solid #efefef;
 }
 #room.blami3ad1 #mic{
@@ -1765,7 +1765,7 @@ border-radius:  10px 0 10px!important;
 #room.blami3ad1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
     border: 1px solid #ecdce4;
-    background-color: #d9cfc1;
+    background-color: #e3d5db;
 }
 #upro.blami3ad1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
