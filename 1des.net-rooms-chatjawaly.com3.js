@@ -2610,7 +2610,7 @@ height: 52px;
 #users.princ1 .mini.u-msg{text-align:center;}#dpnl.princ1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.princ1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.princ1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #d9cfc1!important;
+    background-color: #6d6d6d!important;
     border: 1px solid #efefef!important;
 }
 #users.princ1 img.ustat {
