@@ -3246,7 +3246,8 @@ $(`<style>#mic4 {margin-right: 8px !important;}
     box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 5px rgb(0 0 0), 0 0 0 0px #000000;
     margin: 3px;
     margin-top: 1px;
-	height: 48px;
+    height: 48px;
+    background-color: #947b70;
 }
 @keyframes huerotate {
     0% {
