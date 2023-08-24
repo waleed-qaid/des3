@@ -3396,7 +3396,7 @@ height: 52px;
 #users.princ1 .mini.u-msg{text-align:center;}#dpnl.princ1.bg{background-image:linear-gradient(225deg,#ce96b3 0%,#d091b1 29%,#eec6da 67%,#b77c9a 100%) */}#rooms.princ1 .corner.fa.fa-user.label.uc.fa-microphone.label-danger{border-radius: 10px 0 10px!important}
 #rooms.princ1 .label-primary {
     border-radius:  10px 0 10px!important;
-    background-color: #6d6d6d!important;
+    background-color: #cab7bb !important;
     border: 1px solid #efefef!important;
 }
 #users.princ1 img.ustat {
@@ -3415,7 +3415,7 @@ height: 52px;
 #users.princ1 .nosel.ninr.fl.uzr.label.bg {
     border-radius:  10px 0 10px!important;
     background-color: #b2b2b2;
-	color: #ffffff;
+	color: #443433;
 	background-image: url(https://up6.cc/2023/08/169291956807972.png);
     background-size: cover;
 }
@@ -3423,7 +3423,7 @@ height: 52px;
     border: 1px solid #adadad !important;
     border-radius: 10px 0 10px!important;
     background-image: url(https://up6.cc/2023/08/169291956809323.png);
-    color: #ffffff;
+    color: #443433;
     background-size: 100%;
 }
 #settings.princ1 .label-primary {
@@ -3432,7 +3432,7 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/08/169291956807972.png);
   background-size: cover;
-  color: #ffffff;
+  color: #443433;
 }
 #settings.princ1 .btn-primary {
   border-radius:  10px 0 10px!important;
@@ -3440,12 +3440,12 @@ height: 52px;
   background-color: #b2b2b2!important;
   background-image: url(https://up6.cc/2023/08/169291956807972.png);
   background-size: cover;
-  color: #ffffff;
+  color: #443433;
 }
 #settings.princ1 .bg-primary{background-color:#9d8980!important}#d0.princ1 .btn-primary{background-color:#9d8980!important}
 #users.princ1 .tbox {
     border-radius:  10px 0 10px!important;
-    background-color: #6d6d6dbf;
+    background-color: #cab7bb;
     border: 1px solid #efefef;
 }
 #room.princ1 #mic{
@@ -3460,14 +3460,14 @@ border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/08/169291956809323.png);
     background-size: cover;
-    color: #ffffff;
+    color: #443433;
     font-size: 14px !important;
 }
 #d2.princ1{background-color:#fff !important;}
 #room.princ1 .tablebox.d-flex.footer.fl.light {
     border-radius:  10px 0 10px!important;
     border: 1px solid #ecdce4;
-    background-color: #6d6d6da1;
+    background-color: #cab7bb;
 }
 #upro.princ1 .light.fl.pro.break {
     background-image: linear-gradient(225deg,#dfdfdf 0%,#f7f7f7 29%,#f4f4f4 67%,#dbdbdb 100%);
@@ -3513,19 +3513,19 @@ box-shadow: 0 0 0px rgb(0 0 0), inset 0 0 4px rgb(0 0 0), 0 0 0 0px #000;
     border-radius:  10px 0 10px!important;
     border: 1px solid #f1f1f1;
     background-image: url(https://up6.cc/2023/08/169291956809323.png);
-    color: #ffffff;
+    color: #443433;
 }
 .btn.btn-primary.u-nickc.fr.fa.fa-save.princ1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/08/169291956809323.png);
-    color: #ffffff;
+    color: #443433;
 }
 .label.fl.label-primary.princ1 {
     border-radius:  10px 0 10px!important;
     border: 1px solid #e7e7e7;
     background-image: url(https://up6.cc/2023/08/169291956809323.png);
-    color: #ffffff;
+    color: #443433;
 }
 #rooms.princ1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#settings.princ1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}#d2bc.princ1{background-color:#ecdce4!important;background-image:linear-gradient(225deg,#e3c4d3 0%,#fdedf5 29%,#f4f4f4 67%,#f9dbea 100%)}
 input.princ1 {
