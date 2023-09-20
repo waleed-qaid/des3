@@ -4120,10 +4120,6 @@ background-color: #434343!important;
   background-image: url("https://up6.cc/2023/09/169515720821312.png")!important;
   background-size: cover;
 }
-#wall.room_aldoish1 #d2bc {
-  background-image: url("https://up6.cc/2023/09/169515720821312.png")!important;
-  background-size: cover;
-}
 #rooms.room_aldoish1 {
   background-image: url("https://up6.cc/2023/09/169515720821312.png")!important;
   background-size: cover;
