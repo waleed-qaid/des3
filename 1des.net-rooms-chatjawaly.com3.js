@@ -6028,14 +6028,14 @@ $(`<style>
 }
 .nosel.d-flex.room.r17d100cd5fcxfe761573x-po8mei .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #ef8544;
+  -webkit-text-fill-color: #000;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 70px!important;
+  margin-left: 50px!important;
 }
 .nosel.d-flex.room.r17d100cd5fcxfe761573x-po8mei.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r17d100cd5fcxfe761573x-po8mei .dots.mini.u-msg {
