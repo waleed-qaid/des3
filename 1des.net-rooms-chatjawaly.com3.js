@@ -5692,14 +5692,14 @@ $(`<style>
 }
 .nosel.d-flex.room.r18bd4f87084x881d1e8-xf6y30q .corner.fa.fa-user.label.uc.fa-microphone.label-danger {
   letter-spacing: 1px;
-  -webkit-text-fill-color: #ef8544;
+  -webkit-text-fill-color: #000;
   border-radius: 15px 0px 15px 0px !important;
   height: 27px;
   margin-top: 40px !important;
   margin-bottom: 0px !important;
   background-color: #d9534f00;
   text-align: left!important;
-  margin-left: 70px!important;
+  margin-left: 50px!important;
 }
 .nosel.d-flex.room.r18bd4f87084x881d1e8-xf6y30q.bord {border-inline: 0px solid #4c121e !important;}
 .nosel.d-flex.room.r18bd4f87084x881d1e8-xf6y30q .dots.mini.u-msg {
